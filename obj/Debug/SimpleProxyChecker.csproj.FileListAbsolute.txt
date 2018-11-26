@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\SimpleProxyChecker\SimpleProxyChecker\bin\Debug\SimpleProxyChecker.exe
+c:\users\admin\source\repos\SimpleProxyChecker\SimpleProxyChecker\bin\Debug\SimpleProxyChecker.pdb
+c:\users\admin\source\repos\SimpleProxyChecker\SimpleProxyChecker\obj\Debug\SimpleProxyChecker.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\SimpleProxyChecker\SimpleProxyChecker\obj\Debug\SimpleProxyChecker.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\SimpleProxyChecker\SimpleProxyChecker\obj\Debug\SimpleProxyChecker.exe
+c:\users\admin\source\repos\SimpleProxyChecker\SimpleProxyChecker\obj\Debug\SimpleProxyChecker.pdb
+c:\users\admin\source\repos\SimpleProxyChecker\SimpleProxyChecker\bin\Debug\SimpleProxyChecker.exe.config
